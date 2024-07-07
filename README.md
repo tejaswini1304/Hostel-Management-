@@ -2,11 +2,11 @@
 
 ## Introduction
 
-The Hostel Management System is a comprehensive software solution designed to automate and streamline administrative tasks within a hostel environment. It provides modules for Admission, Hostel details, Visitor management, Complaint management, Mess registration, and Night-out management, aiming to improve operational efficiency and resident satisfaction.
+The Hostel Management System is a Java-based project that automates administrative tasks within a hostel environment. It includes modules for Admission, Hostel details, Visitor management, Complaint management, Mess registration, and Night-out management.
 
 ## Purpose
 
-The project aims to automate routine administrative tasks, enhance transparency, and optimize the management of hostel operations. By utilizing various data structures and algorithms, it ensures efficient data handling, quick access to information, and streamlined processes, ultimately improving resource utilization and resident experience.
+This project aims to streamline hostel operations through efficient data handling using Java and fundamental Data Structures and Algorithms (DSA). By employing data structures like queues, binary search trees (BST), arrays, and linked lists, it ensures optimized management of admissions, visitor records, complaints, mess registrations, and night-out permissions. Ultimately, it enhances transparency, reduces manual workload, and improves resident satisfaction.
 
 ## Features
 
